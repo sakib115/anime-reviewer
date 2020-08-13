@@ -1,0 +1,65 @@
+* {
+  border: 0;
+}
+.navy {
+  background-color: #00203f;
+}
+.sky {
+  color: #adefd1;
+}
+.head {
+  height: 100px;
+}
+.logo1{
+  color: #adefd1;
+  font-size: 40px;
+}
+.nav1{
+  padding: 10px;
+}
+.caro{
+  margin-top: 100px;
+}
+.review-cards{
+  margin-top: 100px;
+}
+.review-head{
+  margin-left: 40px;
+}
+.review-card{
+  background-color: lightgoldenrodyellow;
+  width: 600px;
+  height: 370px;
+  float: left;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.review-card-img{
+  position: relative;
+  top: 20px;
+  left: 10px;
+}
+.review-card-head{
+  width: 370px;
+  position: relative;
+  bottom: 310px;
+  left: 220px;
+  border-bottom: 4px dotted black;
+}
+.review-card-anime-info{
+  position: relative;
+  bottom: 290px;
+  left: 220px;
+}
+.review-card-anime-intro{
+  position: relative;
+  bottom: 275px;
+  left: 220px;
+  width: 370px;
+}
+.review-card-writer{
+  position: relative;
+  bottom: 260px;
+  left: 395px;
+  width: 220px;
+}
